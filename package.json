@@ -1,5 +1,5 @@
 {
-  "name": "electron-rebuild",
+  "name": "electron-rebuild-ftl",
   "version": "1.5.11",
   "description": "Electron supporting package to rebuild native node modules against the currently installed electron",
   "main": "lib/src/main.js",
